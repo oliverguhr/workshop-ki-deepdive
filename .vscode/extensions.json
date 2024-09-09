@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-toolsai.jupyter",
+        "ms-python.python",
+        "ms-python.debugpy",
+        "github.remotehub",
+        "ms-toolsai.tensorboard"
+    ]
+}

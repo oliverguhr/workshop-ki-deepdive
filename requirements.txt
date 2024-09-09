@@ -1,0 +1,16 @@
+transformers
+torch
+torchvision 
+Pillow 
+diffusers
+scikit-learn
+matplotlib
+lightning 
+tensorboard
+datasets 
+transformers 
+accelerate 
+sentencepiece
+x-transformers
+ipykernel
+tqdm
