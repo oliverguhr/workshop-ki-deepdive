@@ -13,4 +13,6 @@ accelerate
 sentencepiece
 x-transformers
 ipykernel
+ipywidgets
 tqdm
+sentence-transformers

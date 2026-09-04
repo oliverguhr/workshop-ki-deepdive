@@ -1,3 +1,7 @@
 .venv
 lightning_logs/
 .ds_store
+test-offensive-language
+models/
+description.tsv
+output.tsv
