@@ -1,18 +1,27 @@
-transformers
-torch
-torchvision 
-Pillow 
-diffusers
-scikit-learn
-matplotlib
-lightning 
-tensorboard
-datasets 
-transformers 
-accelerate 
-sentencepiece
-x-transformers
-ipykernel
-ipywidgets
-tqdm
-sentence-transformers
+# Deep Learning & PyTorch (kompatibles Versionspaar)
+torch~=2.14.0
+torchvision~=0.29.0
+lightning~=2.6.0
+x-transformers~=2.28.0
+
+# Hugging Face Ökosystem
+transformers~=5.16.0
+diffusers~=0.40.0
+datasets~=5.0.0
+accelerate~=1.14.0
+sentence-transformers~=6.0.0
+
+# Data Science & Machine Learning
+scikit-learn~=1.9.0
+pandas~=3.0.0
+matplotlib~=3.11.0
+Pillow~=12.3.0
+sentencepiece~=0.2.0
+
+# Logging & Hilfswerkzeuge
+tensorboard~=2.21.0
+tqdm~=4.70.0
+
+# Jupyter Notebook & Widgets
+ipykernel~=7.3.0
+ipywidgets~=8.1.0
