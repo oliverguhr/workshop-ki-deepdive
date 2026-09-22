@@ -5,3 +5,9 @@ test-offensive-language
 models/
 description.tsv
 output.tsv
+# unsloth / notebook 9 artifacts
+unsloth_compiled_cache/
+outputs/
+llama-3.2-1b-german-spelling*/
+gemma-4-e2b-german-spelling*/
+Modelfile
